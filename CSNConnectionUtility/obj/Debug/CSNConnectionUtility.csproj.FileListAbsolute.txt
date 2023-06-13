@@ -1,0 +1,11 @@
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\bin\Debug\CSNConnectionUtility.dll
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\bin\Debug\CSNConnectionUtility.pdb
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\bin\Debug\Newtonsoft.Json.dll
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\bin\Debug\System.Net.Http.Formatting.dll
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\bin\Debug\Newtonsoft.Json.xml
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\bin\Debug\System.Net.Http.Formatting.xml
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\obj\Debug\CSNConnectionUtility.csproj.CoreCompileInputs.cache
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\obj\Debug\CSNConnectionUtility.csproj.CopyComplete
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\obj\Debug\CSNConnectionUtility.dll
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\obj\Debug\CSNConnectionUtility.pdb
+E:\BSCIT_Project\CSNConnectionUtility\CSNConnectionUtility\obj\Debug\CSNConnectionUtility.csproj.AssemblyReference.cache
